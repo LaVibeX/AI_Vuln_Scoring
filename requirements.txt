@@ -1,0 +1,7 @@
+python-dotenv
+cvss
+xmltodict
+openai
+gradio
+streamlit-tags
+streamlit-elements==0.1.*
