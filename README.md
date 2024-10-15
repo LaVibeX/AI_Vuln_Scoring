@@ -17,11 +17,11 @@ pip install -r requirements.txt
 touch .env
 ```
 Add Tokens inside .env file:
-FREE_TOKEN #On-prem models
-GPT_TOKEN #Off-prem models
-GITHUB_TOKEN_LLM #Github API Token
-MODEL_URL1 #R&S Model URL
-OPENAI_API_KEY #In case you want to use your own OPEN_API key
+- FREE_TOKEN #On-prem models
+- GPT_TOKEN #Off-prem models
+- GITHUB_TOKEN_LLM #Github API Token
+- MODEL_URL1 #R&S Model URL
+- OPENAI_API_KEY #In case you want to use your own OPEN_API key
 
 ## Download Information
 In order to fetch the CVE Data from the different sources, you will need to .
